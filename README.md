@@ -1,5 +1,5 @@
 # -COMPUTER-ENGINEERING-Second-Year-All-Codes
-All the codes for Second Year Computer Engineering (CS)  Savitribai Phule Pune University (SPPU)
+All the codes form Second Year Computer Engineering (CS)  Savitribai Phule Pune University (SPPU)
 
 fOR Windows : Use Code block Latest Version
  
