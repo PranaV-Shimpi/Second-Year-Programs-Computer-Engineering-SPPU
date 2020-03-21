@@ -1,4 +1,4 @@
-# -COMPUTER-ENGINEERING-Second-Year-All-Codes
+# -Computer Enginerring SPPU-Second-Year(SE)-All-Codes
 All the codes form Second Year Computer Engineering (CS)  Savitribai Phule Pune University (SPPU)
 
 fOR Windows : Use Code block Latest Version
